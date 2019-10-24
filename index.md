@@ -16,7 +16,7 @@ Eine besondere Form der Kommunikation, welche sich in der Werbung zu Marketingzw
 
 Doch wie und warum haben Geschichten so einen großen Einfluss auf die Menschen und ermöglichen einen solchen Zugang? Schon seit je her werden Informationen, Wissen und Erfahrungen anhand von Geschichten weitervermittelt und dies aus gutem Grund. Denn Stories beinhalten, im Vergleich zu bloßen Zahlen und Fakten, Erfahrungen und Empfindungen, welche entscheidende Faktoren zur Motivationsbildung und dem Bewusstwerden über Sinn und Identität, darstellen. Eine erfolgreiche Geschichte veranschaulicht Lebensprobleme und zeigt einen möglichen Lösungsweg auf. Sie bietet Leitfiguren, welche soziale Ereignisse durchleben und präsentiert, wie Erfolg, als auch Misserfolg, zustande kommen können. Dies ermöglicht dem Kunden, seine eigenen Wertevorstellungen zu reflektieren. Die Parallelen, welche er in Bezug auf persönliche Empfindungen und Handlungsmuster zu dem Protagonisten entdeckt, schaffen ein kollektives Bewusstsein und eine Verbindung zu der werbetreibenden Marke (Frielingsdorf, 2008, S. 254). Durch diese subtile und indirekte Herangehensweise der Vermittlung, erreicht der Botschafter, dass der Konsument sich öffnet und empfänglich, anstatt mit Reaktanz, reagiert (Simmons, 2006, S. 28). Weiterhin trägt ein besonderer Effekt im menschlichen Gehirn zu der mächtigen Wirkung von Geschichten bei. Der Wissenschaftler Paul Zak fand heraus, dass Stories ein Auslöser für die Ausschüttung von Oxytocin im Gehirn sind, ein Hormon, welches für Gefühle wie Empathie oder den Wunsch zu kooperieren, verantwortlich ist. Es stimmt uns also insgesamt softer. Außerdem werden im Gehirn, beim Zuhören einer Geschichte, die gleichen Gebiete stimuliert, wie wenn ein Event erlebt wird, was unter anderem dazu führt, dass Stories statistischen Daten im Gedächtnis überliegen, bzw. besser behalten werden (Biesenbach, 2018, S. 12). So lässt sich also zusammenfassend festhalten, dass Storytelling bei Menschen eine immense Wirkung erzielt, da diese Form der Kommunikation den Zuhörer auf der physiologischen, emotionalen, sowie intellektuellen Ebene abholt und involviert (Biesenbach, 2018, S. 13).
 
-# Gestaltung und Key Elements einer erfolgreichen Story#
+# Gestaltung und Key Elements einer erfolgreichen Story
 
 Nun stellt sich die Frage, wie muss eine Story in einer Markenwerbung gestaltet sein, damit sie die zuvor beschriebenen Wirkungen erzielt und erfolgreich ist? Der grundlegende Aufbau besteht aus den vier folgenden Elementen: Botschaft, Handlung, Konflikt und Charaktere (Hilzensauer, 2014, S. 96). Eine Geschichte in einem Werbespot sollte also so konzeptioniert sein, dass es mindestens einen Protagonisten gibt, der auf dem Weg zu seinem Ziel eine Herausforderung bzw. ein Problem bewältigen muss. Schließlich wird ein möglicher Lösungsweg dargeboten. Während des gesamten Ablaufs der Geschichte, wird die dahinterstehende Botschaft leicht verständlich veranschaulicht. Dabei ist es wichtig authentische Charaktere auszuwählen, dessen Handlungen für den Zuschauer nachvollziehbar sind. Zudem sollte der Konflikt dramatisch genug gestaltet sein, um die nötige Spannung zu erzeugen (Biesenbach, 2018, S. 20-24). Insgesamt sollte die Handlung in der Werbung auf das Wesentliche beschränkt sein und die Priorität auf den Kern der Botschaft gelegt werden. Außerdem lassen sich einfache Botschaften leichter einprägen als komplexe, weswegen es möglichst konkret gehalten werden sollte (Gottlieb, 2012, S. 32). Die wohlmöglich bedeutendste und absolut unerlässliche Komponente beim Storytelling, ist die Übermittlung von Emotionen. Nur wenn die Zuhörer etwas fühlen, sind sie stärker gewillt zu handeln, das heißt in den meisten Fällen etwas zu kaufen. Ziel ist es also, eine Reaktion durch Emotionen zu provozieren und Gefühle auszulösen, die der Konsument mit der Marke koppelt und nachfolgend zu einer Kaufentscheidung bewegt. Dies gelingt durch eine Story, mit der sich die Zielgruppe identifizieren kann (Biesenbach, 2018, S. 24).
 
@@ -31,15 +31,27 @@ Storytelling als Markenbotschafter in der Werbung, wird als Marketinginstrument 
 # Literaturverzeichnis
 
 Biesenbach, R. (2018). Unleash the Power of Storytelling. Win hearts, change minds, get results (1. Auflage). Orrington Ave Evanston: Eastlawn Media.
+
 Domizlaff, H. (2005). Die Gewinnung des öffentlichen Vertrauens. Ein Lehrbuch der Markentechnik (7. Auflage). Hamburg: Marketing Journal.
+
 Felder, J. (2019). Persuasive Storytelling: How to Write Brand Stories that Sell. Zugriff am 10.10.2019 unter https://www.persuasion-nation.com/blog/persuasive-storytelling-how-to-write-business-stories-that-sell.
+
 Frenzel, K., Müller, M und Sottong, H. (2006). Storytelling. Das Praxisbuch (1. Auflage). Wien: Carl Hanser Verlag München.
+
 Frielingsdorf, A. (2008). Storytelling. In Steiger und Lippmann (Hrsg.), Handbuch Angewandte Psychologie für Führungskräfte. Führungskompetenz und Führungswissen (3. Auflage). Heidelberg: Springer Medizin Verlag.
+
 Gottlieb, S. (2012). Storytelling als Methode zur Gestaltung von Werbebotschaften unter Berücksichtigung neuropsychologischer Erkenntnisse. Zugriff am 08.10.2019 unter https://www.vwa-goettingen.de/assets/media/Gottlieb_Sebastian_Thesis.pdf.
+
 Hellmann, K.U. (2005). Marken und ihre Anhänger. Zur Subkultur von Markengemeinschaften. Zugriff am 08.10.2019 unter https://s3.amazonaws.com/academia.edu.documents/32382236/Hellmann.pdf?response-content-disposition=inline%3B%20filename%3DMarken_und_ihre_Anhanger._Zur_Subkultur.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191011T074901Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0d3f024ec7f311bb6b2d1582d3da0185d19b09d2efaf152cc13b3b81db4883bc.
+
 Hilzensauer, A. (2014). Storytelling – Mit Geschichten Marken führen. In S. Ettl-Huber (Hrsg.), Storypoteziale, Stories und Storytelling in der Organisationskommunikation (S. 87-101). Wiesbaden: Springer Fachmedien.
+
 HORIZONT Online (2014). Hornbach “Sag es mit deinem Projekt“. Zugriff am 08.10.2019 unter https://www.youtube.com/watch?v=Cmg8ghXhAt8.
+
 Karnowski, E. (2015). Storytelling in der Werbung: 3 Beispiele die fesseln. Zugriff am 10.10.2019 unter https://digitaler-mittelstand.de/trends/ratgeber/storytelling-in-der-werbung-5-beispiele-die-fesseln-9285.
+
 Rogers, A. (2016). All Marketers Are Liars – Book Review Summary, Notes and Quotes. Zugriff am 10.10.2019 unter http://adamrogersuk.com/blog/all-marketers-are-liars-authentic-story-book-review-summary-notes-and-quotes/.
+
 Simmons, A. (2006). The Story Factor. Inspiration, Influence, and Persuasion Through the Art of Storytelling (2. Auflage). U.S.: Perseus Book Group.
+
 Thier, K. (2010). Storytelling. Eine Methode für das Change-, Marken-, Qualitäts- und Wissensmanagement (2. Auflage). Heidelberg: Springer-Verlag GmbH.
